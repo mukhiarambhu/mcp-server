@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"city-weatcher-mcp": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"tsx",
+				"main.ts"
+			]
+		}
+	},
+	"inputs": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "description": "demo for mcp server",
+  "homepage": "https://github.com/mukhiarambhu/mcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/mukhiarambhu/mcp-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhiarambhu/mcp-server.git"
+  },
+  "license": "ISC",
+  "author": "rambhu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.1",
+    "zod": "^3.25.76"
+  }
+}
